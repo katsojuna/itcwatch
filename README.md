@@ -12,6 +12,7 @@ In addition, if you add milepost numbers to your WIU data, then you can sort the
   "sig": "UP",
   ...
 
+The "MP" entry can be an integer or float, or it can be a quoted string with an alphabetic prefix, for example "MP:"CP 42" or "MP":"CPC42"
 
 Click on the Releases link over on the right to download the Windows EXE.
 Source code will probably be released after a few updates.
