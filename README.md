@@ -18,3 +18,5 @@ Click on the Releases link over on the right to download the Windows EXE.
 Source code will probably be released after a few updates.
 
 <img width="800" height="350" alt="itcwatch-tn" src="https://github.com/user-attachments/assets/011bb044-7fc3-4419-ba0e-134835baed52" />
+
+<img width="1712" height="1152" alt="itcwatchchart" src="https://github.com/user-attachments/assets/a97f58cc-2b76-4d65-b9cb-4e15e414f5d7" />
