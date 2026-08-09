@@ -1,5 +1,7 @@
 The ITC Watch program displays wayside indications in a nicer format than ITCMON.
 
+updates since v0.3.0:  added charts, small bug fixes
+
 It gets its data from 'zjpub' servers, so you need to have either ITCMON or IGW running.
 
 It will look for the rrdata.json file and the wius subdirectory in the connected directory the .exe is in.
