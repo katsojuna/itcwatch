@@ -1,4 +1,8 @@
-The ITC Watch program displays wayside indications in a nicer format than ITCMON.
+The ITC Watch program displays wayside indications in a nicer format than ITCMON.  In the Releases tab you'll find a Windows EXE and an Android APK file.
+
+To install the APK on Android you'll need to enable/allow "installing apk or app from unknown sources" on your phone (will vary how you do this depending on phone and Android version).  It's only been tested on one phone and one tablet so far.
+
+updates since v0.4.0: searches national directory server for public data servers.  first release of android app.
 
 updates since v0.3.0:  added charts, small bug fixes
 
